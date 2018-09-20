@@ -33,6 +33,7 @@
         android:text="关闭远程服务"/>
 
     <Button
+        android:id="@+id/job"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
